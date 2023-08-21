@@ -6,7 +6,7 @@ package ej1;
 
 /**
  *
- * @author Pitochuu
+ * @author Jaime
  */
 public class Automovil extends Vehiculo implements Comodidad{
     
